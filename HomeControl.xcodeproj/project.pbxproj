@@ -302,6 +302,7 @@
 				17FC12831EAE85C4007F2B51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
